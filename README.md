@@ -39,7 +39,8 @@ This project is a modern, responsive blog layout built using Bootstrap 5. It dem
 ---
 
 ## 📸 Screenshot
-
+![Project Screenshot](homepage.png)
+![Project Screenshot](screenshot.png)
 ## 🧠 Key Concepts Learned
 
 * Bootstrap Grid System
